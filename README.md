@@ -6,6 +6,7 @@ Exlodium | Hobby developer & CNC machinist
 
 * 🌍  I'm based in Norway
 * 🚀  I'm currently working on [RyzeX](http://ryzex.tech/) and [CS2 External Base](https://github.com/Exlodium/CS2-External-Base)
+
 <a href="https://www.github.com/Exlodium" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Exlodium?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
